@@ -1,0 +1,1 @@
+# smart-facotry-quality-classification
